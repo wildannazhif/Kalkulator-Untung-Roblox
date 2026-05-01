@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Profit Calculator",
+  "description": "Calculate net profit from selling items on Roblox, including marketplace, Payoneer, and bank withdrawal fees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
